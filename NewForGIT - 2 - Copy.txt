@@ -1,1 +1,1 @@
-result = all;
+result = all -all;
