@@ -1,2 +1,2 @@
-result = all;
+result = all;result = all;
 //nadav
