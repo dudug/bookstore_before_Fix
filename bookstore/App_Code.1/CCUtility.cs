@@ -101,6 +101,7 @@ namespace Book_Store
 			}
 		}
 
+
 		public static string Quote(string Param) {
 			if (Param == null || Param.Length == 0) {
 				return "";
